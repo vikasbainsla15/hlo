@@ -1,0 +1,6 @@
+nltk
+pandas
+matplotlib
+plotly
+scipy
+streamlit
